@@ -9,6 +9,7 @@ This project make use of the excellent:
 
  - [Faker.js](https://github.com/marak/Faker.js/)
  - [Json GraphQL Server](https://github.com/marmelab/json-graphql-server)
+ - [CORS](https://github.com/expressjs/cors#readme)
 
 
 ## Installation
